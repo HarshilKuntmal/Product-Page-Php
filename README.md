@@ -1,4 +1,4 @@
-|<h2>Project Setup</h2>
+<h2>Project Setup</h2>
 
 Clone the repository:
 github clone https://github.com/HarshilKuntmal/Product-Page-Php
